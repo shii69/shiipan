@@ -1,14 +1,9 @@
 
 let 快速订阅访问入口= ['auto'];
-let addresses = [
-];
-let addressesapi = [	
-];
+let addresses = [];
+let addressesapi = [];
 
-let addressesnotls = [
-	
-	
-];
+let addressesnotls = [];
 let addressesnotlsapi = [];
 
 let addressescsv = [];
